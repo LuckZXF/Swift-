@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.0.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - LKDBHelper (2.4):
+    - FMDB
+  - Moya (8.0.0-beta.4):
+    - Moya/Core (= 8.0.0-beta.4)
+  - Moya/Core (8.0.0-beta.4):
+    - Alamofire (~> 4.0)
+    - Result (~> 3.0)
+  - Result (3.0.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.1)
+  - FMDB (~> 2.6.2)
+  - LKDBHelper (~> 2.4)
+  - Moya (~> 8.0.0-beta.3)
+  - YYModel (~> 1.0.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  LKDBHelper: 1162892ca4ffc28029070d6f40f57b333133f1c4
+  Moya: bad6f72ec40661f09a8cd85ab470226d2795a485
+  Result: 1b3e431f37cbcd3ad89c6aa9ab0ae55515fae3b6
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+COCOAPODS: 0.39.0
